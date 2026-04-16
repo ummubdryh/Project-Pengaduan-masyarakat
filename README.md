@@ -22,7 +22,7 @@ Dengan adanya PANMASTI, proses pengaduan menjadi lebih efisien, terdokumentasi d
 
 ---
 
-## 🚀 Key Features
+## 🚀 Features
 - 🔐 Login & Register dengan CAPTCHA
 - 📝 Pengajuan Pengaduan oleh User
 - 📎 Upload Bukti (Gambar)
@@ -37,40 +37,51 @@ Dengan adanya PANMASTI, proses pengaduan menjadi lebih efisien, terdokumentasi d
 - **Backend**: PHP Native  
 - **Database**: MySQL  
 - **Frontend**: Bootstrap 5  
-- **Client-side**: JavaScript  
-
+- **Client-side**: JavaScript
+  
 ---
-
 ## 📂 Project Structure
+
 ```bash
 pengaduan-masyarakat/
-├── admin/        # Panel admin
-├── user/         # Halaman user
-├── upload/       # File bukti pengaduan
-├── index.php     # Entry point
-├── login.php     # Login page
-├── register.php  # Register page
-├── logout.php    # Logout
-├── header.php    # Template header
-├── footer.php    # Template footer
-└── koneksi.php   # Database connection
+├── 📁 admin/        # Panel admin
+├── 📁 user/         # Halaman user
+├── 📁 upload/       # File bukti pengaduan
+├── 📄 index.php     # Entry point
+├── 📄 login.php     # Login page
+├── 📄 register.php  # Register page
+├── 📄 logout.php    # Logout
+├── 📄 header.php    # Template header
+├── 📄 footer.php    # Template footer
+└── 📄 koneksi.php   # Database connection
+```
 ---
-
 ## ⚙️ Installation
 ```bash
 # Clone repository
 git clone https://github.com/ummubdryh/project-pengaduan-masyarakat.git
----
+```
 📌 Langkah selanjutnya:
+
 Pindahkan ke folder htdocs (XAMPP)
 Import database ke phpMyAdmin
 Jalankan di browser:
+```
 http://localhost/pengaduanmasyarakat
-
+```
 ---
 
 👩‍💻 Author
+
 Ummu Badriyah Mualifah ✨
+
 ---
 📌 Notes
+
 Project ini dibuat untuk keperluan pembelajaran dan tugas kuliah.
+
+---
+
+💖 Support
+
+Kalau project ini membantu, jangan lupa ⭐ di GitHub ya!

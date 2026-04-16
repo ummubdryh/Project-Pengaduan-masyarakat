@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PANMASTI-Pengaduan%20Masyarakat-green?style=for-the-badge">
+</p>
+
 ---
 
 ## ✨ About The Project
